@@ -1,0 +1,1413 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://yourwebsite.com/">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="canonical" href="https://yourwebsite.com/">
+    <link rel="alternate" hreflang="ar-jo" href="https://yourwebsite.com/" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <!-- SEO Meta Tags -->
+    <title>شركة غلا GHALAA LLC | أفضل خدمات تنظيف وصيانة المنازل في الأردن</title>
+    <meta name="description" content="شركة غلا (GHALAA LLC) للخدمات المنزلية الفاخرة في الأردن. نقدم خدمات تنظيف الشقق والفلل، غسيل الكنب بالبخار، تنظيف الخزانات والمكيفات، وأعمال الصيانة العامة والسباكة والكهرباء. احجز الآن!">
+    <meta name="keywords" content="شركة تنظيف منازل في الأردن, تنظيف فلل, غسيل كنب بالبخار, صيانة منزلية, سباكة, كهرباء, تعقيم خزانات, شركة غلا, GHALAA LLC">
+    <meta name="author" content="GHALAA LLC">
+
+    <!-- Open Graph / Social Media Meta Tags (Facebook, WhatsApp, LinkedIn) -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="شركة غلا GHALAA LLC | خدمات تنظيف وصيانه المنازل الفاخرة">
+    <meta property="og:description" content="اطلب خدمات التنظيف والصيانة المنزلية الملكية عبر موقعنا مع حجز فوري عبر الواتساب وتحديد الموقع بدقة.">
+    <meta property="og:image" content="c1d16bb7-c437-483f-8d51-190965f9e896.jpg">
+    <meta property="og:locale" content="ar_JO">
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="شركة غلا GHALAA LLC | خدمات تنظيف وصيانة المنازل">
+    <meta name="twitter:description" content="أعلى معايير الجودة في تنظيف وصيانة المنازل والفلل بمعايير ملكية فاخرة في الأردن.">
+    <meta name="twitter:image" content="c1d16bb7-c437-483f-8d51-190965f9e896.jpg">
+
+    <!-- Structured Data (Schema.org) for Local Business & SEO -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "شركة غلا للخدمات المنزلية والصيانة",
+      "alternateName": "GHALAA LLC",
+      "image": "c1d16bb7-c437-483f-8d51-190965f9e896.jpg",
+      "telephone": "+962782591669",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "عمان",
+        "addressCountry": "JO"
+      },
+      "url": "",
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "servicedArea": "Jordan"
+    }
+    </script>
+
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Google Fonts: Cairo & Inter -->
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700;800;900&family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Cairo', 'Inter', sans-serif;
+            background-color: #0f0e0d;
+            color: #f3f4f6;
+        }
+        html {
+            scroll-behavior: smooth;
+        }
+        ::selection {
+            background-color: #d97706;
+            color: #ffffff;
+        }
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #121110;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: linear-gradient(to bottom, #b45309, #d97706);
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #f59e0b;
+        }
+        .gold-glow {
+            box-shadow: 0 0 25px -5px rgba(217, 119, 6, 0.4);
+        }
+        .gold-glow-lg {
+            box-shadow: 0 0 50px -10px rgba(217, 119, 6, 0.35);
+        }
+        .glass-card {
+            background: rgba(26, 23, 22, 0.7);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(217, 119, 6, 0.2);
+        }
+        .glass-card:hover {
+            border-color: rgba(217, 119, 6, 0.6);
+            transform: translateY(-5px);
+            box-shadow: 0 20px 30px -10px rgba(0, 0, 0, 0.7), 0 0 20px rgba(217, 119, 6, 0.2);
+        }
+        .bg-ambient {
+            position: absolute;
+            width: 300px;
+            height: 300px;
+            background: radial-gradient(circle, rgba(217,119,6,0.15) 0%, rgba(0,0,0,0) 70%);
+            border-radius: 50%;
+            pointer-events: none;
+        }
+    </style>
+</head>
+<body class="bg-[#0f0e0d] text-slate-100 antialiased overflow-x-hidden selection:bg-amber-500 selection:text-black">
+
+    <!-- Scroll Progress Bar -->
+    <div id="scroll-progress" class="fixed top-0 left-0 h-1 bg-gradient-to-r from-amber-600 via-amber-400 to-amber-200 z-[60] transition-all duration-150" style="width: 0%;"></div>
+
+    <!-- Navbar -->
+    <nav class="fixed top-0 left-0 right-0 z-50 bg-[#141211]/90 backdrop-blur-md border-b border-amber-900/40 shadow-2xl transition-all duration-300">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-20">
+                
+                <!-- Right Side: Logo & Services Dropdown -->
+                <div class="flex items-center gap-3 sm:gap-4">
+                    <div class="w-10 h-10 sm:w-12 sm:h-12 rounded-xl overflow-hidden border border-amber-500/50 gold-glow bg-black flex-shrink-0 transform hover:scale-105 transition">
+                        <img src="c1d16bb7-c437-483f-8d51-190965f9e896.jpg" alt="GHALAA LLC Logo" class="w-full h-full object-cover">
+                    </div>
+                    <div>
+                        <span class="text-base sm:text-xl font-extrabold bg-gradient-to-r from-amber-200 via-amber-400 to-amber-600 bg-clip-text text-transparent tracking-wide block">غلا | GHALAA LLC</span>
+                        <span data-i18n="tagline" class="text-[9px] sm:text-[10px] text-amber-500/80 tracking-widest uppercase block -mt-1 font-semibold">للخدمات المنزلية والصيانة</span>
+                    </div>
+
+                    <!-- Services Dropdown -->
+                    <div class="relative ltr:ml-2 rtl:mr-2">
+                        <button id="services-dropdown-btn" class="px-2.5 py-1.5 sm:px-3.5 sm:py-2 rounded-xl bg-amber-500/10 border border-amber-500/30 text-amber-300 text-xs font-bold hover:bg-amber-500/20 transition flex items-center gap-1.5">
+                            <i class="fa-solid fa-list-check text-amber-400"></i>
+                            <span data-i18n="services_guide">دليل الخدمات</span>
+                            <i class="fa-solid fa-chevron-down text-[10px]"></i>
+                        </button>
+                        
+                        <!-- Dropdown Menu -->
+                        <div id="services-dropdown-menu" class="hidden absolute ltr:left-0 rtl:right-0 mt-2 w-72 bg-[#181514] border border-amber-500/40 rounded-2xl shadow-2xl z-50 py-3 overflow-hidden backdrop-blur-xl">
+                            <!-- Cleaning Category -->
+                            <div data-i18n="cat_cleaning" class="px-4 py-1.5 text-[11px] font-extrabold text-amber-400 bg-amber-500/10 uppercase tracking-wider flex items-center gap-2">
+                                <i class="fa-solid fa-broom"></i> خدمات التنظيف
+                            </div>
+                            <a href="#cleaning" data-i18n="drop_clean_1" class="block px-4 py-2 text-xs text-slate-300 hover:bg-amber-500/20 hover:text-amber-300 transition">تنظيف عميق للشقق والفلل</a>
+                            <a href="#cleaning" data-i18n="drop_clean_2" class="block px-4 py-2 text-xs text-slate-300 hover:bg-amber-500/20 hover:text-amber-300 transition">تنظيف الكنب والمجالس بالبخار</a>
+                            <a href="#cleaning" data-i18n="drop_clean_3" class="block px-4 py-2 text-xs text-slate-300 hover:bg-amber-500/20 hover:text-amber-300 transition">تنظيف وتعقيم الخزانات</a>
+                            <a href="#cleaning" data-i18n="drop_clean_4" class="block px-4 py-2 text-xs text-slate-300 hover:bg-amber-500/20 hover:text-amber-300 transition">غسيل وتنقيه المكيفات</a>
+                            <a href="#cleaning" data-i18n="drop_clean_5" class="block px-4 py-2 text-xs text-slate-300 hover:bg-amber-500/20 hover:text-amber-300 transition">تنظيف الواجهات الزجاجية</a>
+                            <a href="#cleaning" data-i18n="drop_clean_6" class="block px-4 py-2 text-xs text-slate-300 hover:bg-amber-500/20 hover:text-amber-300 transition">جلي وتلميع الرخام والبلاط</a>
+
+                            <div class="border-t border-amber-900/40 my-2"></div>
+
+                            <!-- Maintenance Category -->
+                            <div data-i18n="cat_maintenance" class="px-4 py-1.5 text-[11px] font-extrabold text-amber-400 bg-amber-500/10 uppercase tracking-wider flex items-center gap-2">
+                                <i class="fa-solid fa-wrench"></i> خدمات الصيانة
+                            </div>
+                            <a href="#maintenance" data-i18n="drop_maint_1" class="block px-4 py-2 text-xs text-slate-300 hover:bg-amber-500/20 hover:text-amber-300 transition">السباكة والصيانة الصحية</a>
+                            <a href="#maintenance" data-i18n="drop_maint_2" class="block px-4 py-2 text-xs text-slate-300 hover:bg-amber-500/20 hover:text-amber-300 transition">الأعمال الكهربائية والإنارة</a>
+                            <a href="#maintenance" data-i18n="drop_maint_3" class="block px-4 py-2 text-xs text-slate-300 hover:bg-amber-500/20 hover:text-amber-300 transition">صيانة وتعبئة فريون المكيفات</a>
+                            <a href="#maintenance" data-i18n="drop_maint_4" class="block px-4 py-2 text-xs text-slate-300 hover:bg-amber-500/20 hover:text-amber-300 transition">الدهانات والديكورات الحديثة</a>
+                            <a href="#maintenance" data-i18n="drop_maint_5" class="block px-4 py-2 text-xs text-slate-300 hover:bg-amber-500/20 hover:text-amber-300 transition">صيانة الأجهزة المنزلية</a>
+                            <a href="#maintenance" data-i18n="drop_maint_6" class="block px-4 py-2 text-xs text-slate-300 hover:bg-amber-500/20 hover:text-amber-300 transition">عزل الأسطح والخزانات</a>
+
+                            <div class="border-t border-amber-900/40 my-2"></div>
+
+                            <!-- Corporate & Jobs Category -->
+                            <div data-i18n="cat_corporate" class="px-4 py-1.5 text-[11px] font-extrabold text-amber-400 bg-amber-500/10 uppercase tracking-wider flex items-center gap-2">
+                                <i class="fa-solid fa-building-flag"></i> خدمات الشركات والتوظيف
+                            </div>
+                            <a href="#global-inquiries" data-i18n="nav_global" class="block px-4 py-2 text-xs text-slate-300 hover:bg-amber-500/20 hover:text-amber-300 transition">مراسلات الشركات العالمية</a>
+                            <a href="#careers" data-i18n="nav_careers" class="block px-4 py-2 text-xs text-slate-300 hover:bg-amber-500/20 hover:text-amber-300 transition">تقديم طلبات التوظيف (CV)</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Desktop Navigation Links -->
+                <div class="hidden lg:flex items-center gap-6 font-semibold text-slate-300 text-sm">
+                    <a href="#home" data-i18n="nav_home" class="hover:text-amber-400 transition hover:scale-105">الرئيسية</a>
+                    <a href="#why-us" data-i18n="nav_why_us" class="hover:text-amber-400 transition hover:scale-105">لماذا غلا؟</a>
+                    <a href="#cleaning" data-i18n="nav_cleaning" class="hover:text-amber-400 transition hover:scale-105">التنظيف</a>
+                    <a href="#maintenance" data-i18n="nav_maintenance" class="hover:text-amber-400 transition hover:scale-105">الصيانة</a>
+                    <a href="#booking" data-i18n="nav_booking" class="hover:text-amber-400 transition hover:scale-105">السلة والحجز</a>
+                    <a href="#global-inquiries" data-i18n="nav_global" class="hover:text-amber-400 transition hover:scale-105">للشركات العالمية</a>
+                    <a href="#careers" data-i18n="nav_careers" class="hover:text-amber-400 transition hover:scale-105">التوظيف</a>
+                    <a href="#contact" data-i18n="nav_contact" class="hover:text-amber-400 transition hover:scale-105">تواصل معنا</a>
+                </div>
+
+                <!-- Shopping Cart Icon & Language Switcher -->
+                <div class="hidden lg:flex items-center gap-3">
+                    <button id="cart-toggle-btn" class="relative p-2.5 rounded-xl bg-amber-500/10 border border-amber-500/30 text-amber-300 hover:bg-amber-500/20 transition flex items-center justify-center">
+                        <i class="fa-solid fa-cart-shopping text-base"></i>
+                        <span id="cart-badge" class="absolute -top-1.5 -right-1.5 bg-amber-500 text-black text-[10px] font-extrabold w-5 h-5 rounded-full flex items-center justify-center border border-black">0</span>
+                    </button>
+                    <button id="lang-toggle-btn" class="px-3 py-1.5 rounded-xl border border-amber-500/40 text-amber-300 hover:bg-amber-500/20 transition text-xs font-bold flex items-center gap-1.5">
+                        <i class="fa-solid fa-globe"></i>
+                        <span id="lang-label">English</span>
+                    </button>
+                    <a href="https://wa.me/962782591669?text=مرحباً%20شركة%20غلا،%20أرغب%20في%20الاستفسار%20عن%20خدمات%20التنظيف%20والصيانة" target="_blank" class="px-4 py-2.5 rounded-xl bg-gradient-to-r from-emerald-600 to-green-600 text-white font-bold hover:from-emerald-500 hover:to-green-500 transition shadow-lg shadow-green-900/30 text-xs flex items-center gap-2 hover:scale-105 active:scale-95">
+                        <i class="fa-brands fa-whatsapp text-base"></i> <span data-i18n="btn_whatsapp_quick">حجز سريع عبر الواتساب</span>
+                    </a>
+                </div>
+
+                <!-- Mobile Navigation Controls -->
+                <div class="lg:hidden flex items-center gap-2">
+                    <button id="cart-toggle-btn-mobile" class="relative p-2 rounded-lg bg-amber-500/10 border border-amber-500/30 text-amber-300 text-sm">
+                        <i class="fa-solid fa-cart-shopping"></i>
+                        <span id="cart-badge-mobile" class="absolute -top-1 -right-1 bg-amber-500 text-black text-[9px] font-bold w-4 h-4 rounded-full flex items-center justify-center">0</span>
+                    </button>
+                    <button id="lang-toggle-btn-mobile" class="px-2.5 py-1.5 rounded-lg border border-amber-500/40 text-amber-300 text-xs font-bold flex items-center gap-1">
+                        <i class="fa-solid fa-globe"></i>
+                        <span id="lang-label-mobile">English</span>
+                    </button>
+                    <button id="menu-btn" class="p-2 text-amber-400 focus:outline-none text-xl hover:text-amber-300 transition">
+                        <i class="fa-solid fa-bars"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mobile Menu Dropdown -->
+        <div id="mobile-menu" class="hidden lg:hidden bg-[#181514] border-b border-amber-900/40 px-6 pt-4 pb-6 space-y-3 transition-all duration-300">
+            <a href="#home" data-i18n="nav_home" class="block py-2 text-slate-300 font-semibold hover:text-amber-400 border-b border-white/5">الرئيسية</a>
+            <a href="#why-us" data-i18n="nav_why_us" class="block py-2 text-slate-300 font-semibold hover:text-amber-400 border-b border-white/5">لماذا غلا؟</a>
+            <a href="#cleaning" data-i18n="nav_cleaning" class="block py-2 text-slate-300 font-semibold hover:text-amber-400 border-b border-white/5">خدمات التنظيف</a>
+            <a href="#maintenance" data-i18n="nav_maintenance" class="block py-2 text-slate-300 font-semibold hover:text-amber-400 border-b border-white/5">خدمات الصيانة</a>
+            <a href="#booking" data-i18n="nav_booking" class="block py-2 text-slate-300 font-semibold hover:text-amber-400 border-b border-white/5">السلة والحجز</a>
+            <a href="#global-inquiries" data-i18n="nav_global" class="block py-2 text-slate-300 font-semibold hover:text-amber-400 border-b border-white/5">للشركات العالمية</a>
+            <a href="#careers" data-i18n="nav_careers" class="block py-2 text-slate-300 font-semibold hover:text-amber-400 border-b border-white/5">التوظيف وتقديم CV</a>
+            <a href="#contact" data-i18n="nav_contact" class="block py-2 text-slate-300 font-semibold hover:text-amber-400">تواصل معنا</a>
+            <a href="https://wa.me/962782591669?text=مرحباً%20شركة%20غلا،%20أرغب%20في%20طلب%20خدمة" target="_blank" class="block text-center py-3 rounded-xl bg-green-600 text-white font-bold shadow-md shadow-green-600/20 mt-4 text-sm">
+                <i class="fa-brands fa-whatsapp text-base"></i> <span data-i18n="btn_whatsapp_mobile">احجز الآن عبر الواتساب (0782591669)</span>
+            </a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header id="home" class="relative pt-36 pb-24 lg:pt-48 lg:pb-36 px-4 overflow-hidden min-h-screen flex items-center justify-center">
+        <div class="bg-ambient -top-10 -right-10"></div>
+        <div class="bg-ambient -bottom-10 -left-10"></div>
+        
+        <div class="absolute inset-0 z-0">
+            <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80" alt="GHALAA LLC Background" class="w-full h-full object-cover filter brightness-[0.25] scale-105 transform">
+            <div class="absolute inset-0 bg-gradient-to-t from-[#0f0e0d] via-[#0f0e0d]/80 to-[#0f0e0d]/40"></div>
+        </div>
+
+        <div class="max-w-5xl mx-auto text-center relative z-10">
+            <div class="w-64 sm:w-80 lg:w-88 mx-auto rounded-3xl overflow-hidden border-2 border-amber-500/60 gold-glow-lg mb-8 transform hover:scale-105 transition duration-500 bg-black">
+                <img src="c1d16bb7-c437-483f-8d51-190965f9e896.jpg" alt="GHALAA LLC Main Royal Logo" class="w-full h-auto object-cover">
+            </div>
+            
+            <div class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-amber-500/10 backdrop-blur-md border border-amber-500/40 text-amber-300 text-xs sm:text-sm font-semibold mb-6 shadow-lg shadow-amber-500/10 animate-bounce">
+                <i class="fa-solid fa-crown text-amber-400"></i>
+                <span data-i18n="hero_badge">الفخامة والنظافة الملكية في عالم خدمات المنازل</span>
+            </div>
+            <h1 class="text-3xl sm:text-6xl lg:text-7xl font-extrabold tracking-tight leading-tight mb-6">
+                <span data-i18n="hero_title_company">شركة</span> <span class="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-amber-400 to-amber-600">GHALAA LLC | غلا</span>
+            </h1>
+            <p data-i18n="hero_desc" class="max-w-2xl mx-auto text-base sm:text-xl text-slate-300 font-light mb-10 leading-relaxed">
+                نقدم أعلى معايير الجودة في تنظيف وصيانة المنازل والفلل بمعايير ملكية فاخرة تضمن لك الراحة المطلقة والرفاهية التي تستحقها عائلتك.
+            </p>
+            <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+                <a href="https://wa.me/962782591669?text=مرحباً%20شركة%20غلا،%20أرغب%20في%20حجز%20خدمة%20منزلية" target="_blank" class="w-full sm:w-auto px-8 py-4 rounded-2xl bg-gradient-to-r from-emerald-600 to-green-600 text-white font-bold hover:from-emerald-500 hover:to-green-500 transition shadow-xl shadow-green-950/50 flex items-center justify-center gap-2 hover:scale-105 active:scale-95 text-sm sm:text-base">
+                    <i class="fa-brands fa-whatsapp text-2xl"></i> <span data-i18n="btn_hero_whatsapp">احجز فوراً عبر الواتساب: 0782591669</span>
+                </a>
+            </div>
+
+            <!-- Quick Stats Bar -->
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mt-16 pt-12 border-t border-amber-900/30 max-w-4xl mx-auto">
+                <div class="bg-[#1a1716]/60 backdrop-blur-md p-5 rounded-2xl border border-amber-900/30 hover:border-amber-500/40 transition">
+                    <h3 class="text-3xl lg:text-4xl font-extrabold text-amber-400 mb-1 counter" data-target="5000">0</h3>
+                    <p data-i18n="stat_1" class="text-xs text-slate-400 font-semibold">+ منزل تم تنظيفه وصيانته</p>
+                </div>
+                <div class="bg-[#1a1716]/60 backdrop-blur-md p-5 rounded-2xl border border-amber-900/30 hover:border-amber-500/40 transition">
+                    <h3 class="text-3xl lg:text-4xl font-extrabold text-amber-400 mb-1"><span class="counter" data-target="100">0</span>%</h3>
+                    <p data-i18n="stat_2" class="text-xs text-slate-400 font-semibold">ضمان رضا العملاء</p>
+                </div>
+                <div class="bg-[#1a1716]/60 backdrop-blur-md p-5 rounded-2xl border border-amber-900/30 hover:border-amber-500/40 transition">
+                    <h3 class="text-3xl lg:text-4xl font-extrabold text-amber-400 mb-1 counter" data-target="50">0</h3>
+                    <p data-i18n="stat_3" class="text-xs text-slate-400 font-semibold">+ خبير وفني متخصص</p>
+                </div>
+                <div class="bg-[#1a1716]/60 backdrop-blur-md p-5 rounded-2xl border border-amber-900/30 hover:border-amber-500/40 transition">
+                    <h3 class="text-3xl lg:text-4xl font-extrabold text-amber-400 mb-1">24/7</h3>
+                    <p data-i18n="stat_4" class="text-xs text-slate-400 font-semibold">دعم فني وحالات الطوارئ</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Why Us Section -->
+    <section id="why-us" class="py-20 lg:py-32 px-4 bg-[#141211] relative">
+        <div class="max-w-7xl mx-auto">
+            <div class="text-center max-w-2xl mx-auto mb-16">
+                <span data-i18n="why_badge" class="text-amber-400 font-bold uppercase tracking-wider text-sm bg-amber-500/10 px-4 py-1.5 rounded-xl border border-amber-500/20 inline-block shadow-md">لماذا تختار غلا؟</span>
+                <h2 data-i18n="why_title" class="text-3xl sm:text-4xl font-extrabold text-white mt-4 mb-4">المميزات التي تجعلنا الخيار الأول</h2>
+                <p data-i18n="why_desc" class="text-slate-300 font-light">نتميز بالاحترافية العالية والالتزام التام بأدق تفاصيل الجودة والنظافة والصيانة.</p>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Feature 1 -->
+                <div class="glass-card p-8 rounded-3xl transition duration-300">
+                    <div class="w-14 h-14 rounded-2xl bg-amber-500/10 text-amber-400 border border-amber-500/30 flex items-center justify-center text-2xl font-bold mb-6 gold-glow">
+                        <i class="fa-solid fa-award"></i>
+                    </div>
+                    <h3 data-i18n="why_f1_title" class="text-xl font-bold text-white mb-3">الجودة الملكية العالية</h3>
+                    <p data-i18n="why_f1_desc" class="text-slate-300 text-sm leading-relaxed font-light">
+                        نستخدم أحدث معدات التنظيف ومواد الصيانة الأصلية المعتمدة عالمياً لضمان نتائج مذهلة تدوم طويلاً.
+                    </p>
+                </div>
+                <!-- Feature 2 -->
+                <div class="glass-card p-8 rounded-3xl transition duration-300">
+                    <div class="w-14 h-14 rounded-2xl bg-amber-500/10 text-amber-400 border border-amber-500/30 flex items-center justify-center text-2xl font-bold mb-6 gold-glow">
+                        <i class="fa-solid fa-user-shield"></i>
+                    </div>
+                    <h3 data-i18n="why_f2_title" class="text-xl font-bold text-white mb-3">عمالة مدربة وموثوقة</h3>
+                    <p data-i18n="why_f2_desc" class="text-slate-300 text-sm leading-relaxed font-light">
+                        فريق عمل محترف وخاضع لتدريبات مكثفة وأمنية لضمان الأمان التام والاحترام المطلق لخصوصية منزلك.
+                    </p>
+                </div>
+                <!-- Feature 3 -->
+                <div class="glass-card p-8 rounded-3xl transition duration-300">
+                    <div class="w-14 h-14 rounded-2xl bg-amber-500/10 text-amber-400 border border-amber-500/30 flex items-center justify-center text-2xl font-bold mb-6 gold-glow">
+                        <i class="fa-solid fa-clock"></i>
+                    </div>
+                    <h3 data-i18n="why_f3_title" class="text-xl font-bold text-white mb-3">دقة تامة في المواعيد</h3>
+                    <p data-i18n="why_f3_desc" class="text-slate-300 text-sm leading-relaxed font-light">
+                        نلتزم بالوصول في الوقت المحدد تماماً وإنجاز المهام بكفاءة عالية وفق جدول زمني دقيق يناسب وقتك.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Cleaning Services -->
+    <section id="cleaning" class="py-20 lg:py-32 px-4 bg-[#0f0e0d]">
+        <div class="max-w-7xl mx-auto">
+            <div class="text-center max-w-2xl mx-auto mb-16">
+                <span data-i18n="clean_badge" class="text-amber-400 font-bold uppercase tracking-wider text-sm bg-amber-500/10 px-4 py-1.5 rounded-xl border border-amber-500/20 inline-block shadow-md">قسم التنظيف</span>
+                <h2 data-i18n="clean_title" class="text-3xl sm:text-4xl font-extrabold text-white mt-4 mb-4">خدمات التنظيف الشاملة</h2>
+                <p data-i18n="clean_desc" class="text-slate-300 font-light">نحول منزلك إلى واحة من النظافة والتعقيم الفائق بأحدث تقنيات البخار والتطهير.</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Cleaning Item 1 -->
+                <div class="glass-card rounded-3xl overflow-hidden group flex flex-col justify-between transition duration-500">
+                    <div>
+                        <div class="h-56 overflow-hidden relative">
+                            <img src="https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=800&q=80" alt="التنظيف العميق" class="w-full h-full object-cover group-hover:scale-110 transition duration-700">
+                            <div class="absolute inset-0 bg-gradient-to-t from-[#141211] via-transparent to-transparent opacity-80"></div>
+                            <span data-i18n="tag_popular" class="absolute top-4 ltr:right-4 rtl:left-4 bg-amber-600 text-white font-bold text-xs px-3 py-1.5 rounded-lg shadow-lg gold-glow">الأكثر طلباً</span>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex items-center gap-2 text-amber-400 text-sm font-bold mb-2">
+                                <i class="fa-solid fa-sparkles"></i> <span data-i18n="card_c1_title">تنظيف عميق للشقق والفلل</span>
+                            </div>
+                            <p data-i18n="card_c1_desc" class="text-slate-300 text-sm font-light leading-relaxed mb-4">
+                                تنظيف شامل للجدران، الأرضيات، الأسطح، الحمامات، والمطابخ مع إزالة البقع الصعبة وتعقيم كامل.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="p-6 pt-0 flex items-center justify-between border-t border-amber-900/30 mt-auto">
+                        <span data-i18n="card_c1_price" class="text-amber-300 font-bold text-sm">50 د.أ</span>
+                        <button onclick="addToCart('تنظيف عميق للشقق والفلل', 50)" class="px-4 py-2 rounded-xl bg-gradient-to-r from-amber-600 to-amber-500 text-white hover:from-amber-500 hover:to-amber-400 transition text-xs font-bold shadow-md flex items-center gap-1.5">
+                            <i class="fa-solid fa-cart-plus text-sm"></i> <span>إضافة للسلة</span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Cleaning Item 2 -->
+                <div class="glass-card rounded-3xl overflow-hidden group flex flex-col justify-between transition duration-500">
+                    <div>
+                        <div class="h-56 overflow-hidden relative">
+                            <img src="https://images.unsplash.com/photo-1558383420-2c10a559d742?auto=format&fit=crop&w=800&q=80" alt="غسيل السجاد والمجالس" class="w-full h-full object-cover group-hover:scale-110 transition duration-700">
+                            <div class="absolute inset-0 bg-gradient-to-t from-[#141211] via-transparent to-transparent opacity-80"></div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex items-center gap-2 text-amber-400 text-sm font-bold mb-2">
+                                <i class="fa-solid fa-couch"></i> <span data-i18n="card_c2_title">غسيل الكنب والمجالس بالبخار</span>
+                            </div>
+                            <p data-i18n="card_c2_desc" class="text-slate-300 text-sm font-light leading-relaxed mb-4">
+                                غسيل وتنظيف الكنب، المجالس، الموكيت، والسجاد بالبخار الحار لإزالة الروائح والبقع العميقة وإعادة روعتها.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="p-6 pt-0 flex items-center justify-between border-t border-amber-900/30 mt-auto">
+                        <span data-i18n="card_c2_price" class="text-amber-300 font-bold text-sm">25 د.أ</span>
+                        <button onclick="addToCart('غسيل الكنب والمجالس بالبخار', 25)" class="px-4 py-2 rounded-xl bg-gradient-to-r from-amber-600 to-amber-500 text-white hover:from-amber-500 hover:to-amber-400 transition text-xs font-bold shadow-md flex items-center gap-1.5">
+                            <i class="fa-solid fa-cart-plus text-sm"></i> <span>إضافة للسلة</span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Cleaning Item 3 -->
+                <div class="glass-card rounded-3xl overflow-hidden group flex flex-col justify-between transition duration-500">
+                    <div>
+                        <div class="h-56 overflow-hidden relative">
+                            <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80" alt="تنظيف الخزانات" class="w-full h-full object-cover group-hover:scale-110 transition duration-700">
+                            <div class="absolute inset-0 bg-gradient-to-t from-[#141211] via-transparent to-transparent opacity-80"></div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex items-center gap-2 text-amber-400 text-sm font-bold mb-2">
+                                <i class="fa-solid fa-droplet"></i> <span data-i18n="card_c3_title">تنظيف وتعقيم الخزانات</span>
+                            </div>
+                            <p data-i18n="card_c3_desc" class="text-slate-300 text-sm font-light leading-relaxed mb-4">
+                                غسيل وتطهير خزانات المياه الأرضية والعلوية بأفضل المواد المعقمة الآمنة لصحة عائلتك ونقاء المياه.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="p-6 pt-0 flex items-center justify-between border-t border-amber-900/30 mt-auto">
+                        <span data-i18n="card_c3_price" class="text-amber-300 font-bold text-sm">30 د.أ</span>
+                        <button onclick="addToCart('تنظيف وتعقيم الخزانات', 30)" class="px-4 py-2 rounded-xl bg-gradient-to-r from-amber-600 to-amber-500 text-white hover:from-amber-500 hover:to-amber-400 transition text-xs font-bold shadow-md flex items-center gap-1.5">
+                            <i class="fa-solid fa-cart-plus text-sm"></i> <span>إضافة للسلة</span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Cleaning Item 4 -->
+                <div class="glass-card rounded-3xl overflow-hidden group flex flex-col justify-between transition duration-500">
+                    <div>
+                        <div class="h-56 overflow-hidden relative">
+                            <img src="https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=800&q=80" alt="تنظيف المكيفات" class="w-full h-full object-cover group-hover:scale-110 transition duration-700">
+                            <div class="absolute inset-0 bg-gradient-to-t from-[#141211] via-transparent to-transparent opacity-80"></div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex items-center gap-2 text-amber-400 text-sm font-bold mb-2">
+                                <i class="fa-solid fa-snowflake"></i> <span data-i18n="card_c4_title">غسيل وتنقيه المكيفات</span>
+                            </div>
+                            <p data-i18n="card_c4_desc" class="text-slate-300 text-sm font-light leading-relaxed mb-4">
+                                غسيل المكيفات الاسبليت والشباك، إزالة الأتربة المتراكمة، تحسين كفاءة التبريد، وتنقيتها من البكتيريا.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="p-6 pt-0 flex items-center justify-between border-t border-amber-900/30 mt-auto">
+                        <span data-i18n="card_c4_price" class="text-amber-300 font-bold text-sm">15 د.أ</span>
+                        <button onclick="addToCart('غسيل وتنقيه المكيفات', 15)" class="px-4 py-2 rounded-xl bg-gradient-to-r from-amber-600 to-amber-500 text-white hover:from-amber-500 hover:to-amber-400 transition text-xs font-bold shadow-md flex items-center gap-1.5">
+                            <i class="fa-solid fa-cart-plus text-sm"></i> <span>إضافة للسلة</span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Cleaning Item 5 -->
+                <div class="glass-card rounded-3xl overflow-hidden group flex flex-col justify-between transition duration-500">
+                    <div>
+                        <div class="h-56 overflow-hidden relative">
+                            <img src="https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80" alt="تنظيف الواجهات" class="w-full h-full object-cover group-hover:scale-110 transition duration-700">
+                            <div class="absolute inset-0 bg-gradient-to-t from-[#141211] via-transparent to-transparent opacity-80"></div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex items-center gap-2 text-amber-400 text-sm font-bold mb-2">
+                                <i class="fa-solid fa-building"></i> <span data-i18n="card_c5_title">تنظيف الواجهات الزجاجية</span>
+                            </div>
+                            <p data-i18n="card_c5_desc" class="text-slate-300 text-sm font-light leading-relaxed mb-4">
+                                تنظيف وتلميع الواجهات الزجاجية للمنازل والفلل والقصور بأحدث معدات الرفع والأمان لبريق لامع.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="p-6 pt-0 flex items-center justify-between border-t border-amber-900/30 mt-auto">
+                        <span data-i18n="card_c5_price" class="text-amber-300 font-bold text-sm">40 د.أ</span>
+                        <button onclick="addToCart('تنظيف الواجهات الزجاجية', 40)" class="px-4 py-2 rounded-xl bg-gradient-to-r from-amber-600 to-amber-500 text-white hover:from-amber-500 hover:to-amber-400 transition text-xs font-bold shadow-md flex items-center gap-1.5">
+                            <i class="fa-solid fa-cart-plus text-sm"></i> <span>إضافة للسلة</span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Cleaning Item 6 -->
+                <div class="glass-card rounded-3xl overflow-hidden group flex flex-col justify-between transition duration-500">
+                    <div>
+                        <div class="h-56 overflow-hidden relative">
+                            <img src="https://images.unsplash.com/photo-1562259949-e8e7689d7828?auto=format&fit=crop&w=800&q=80" alt="جلي وتلميع الرخام" class="w-full h-full object-cover group-hover:scale-110 transition duration-700">
+                            <div class="absolute inset-0 bg-gradient-to-t from-[#141211] via-transparent to-transparent opacity-80"></div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex items-center gap-2 text-amber-400 text-sm font-bold mb-2">
+                                <i class="fa-solid fa-gem"></i> <span data-i18n="card_c6_title">جلي وتلميع الرخام والبلاط</span>
+                            </div>
+                            <p data-i18n="card_c6_desc" class="text-slate-300 text-sm font-light leading-relaxed mb-4">
+                                معالجة وجلي أرضيات الرخام والسيراميك بالماس الكريستالي لإعادة لمعانها الطبيعي وحمايتها من الخدوش.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="p-6 pt-0 flex items-center justify-between border-t border-amber-900/30 mt-auto">
+                        <span data-i18n="card_c6_price" class="text-amber-300 font-bold text-sm">60 د.أ</span>
+                        <button onclick="addToCart('جلي وتلميع الرخام والبلاط', 60)" class="px-4 py-2 rounded-xl bg-gradient-to-r from-amber-600 to-amber-500 text-white hover:from-amber-500 hover:to-amber-400 transition text-xs font-bold shadow-md flex items-center gap-1.5">
+                            <i class="fa-solid fa-cart-plus text-sm"></i> <span>إضافة للسلة</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Maintenance Services -->
+    <section id="maintenance" class="py-20 lg:py-32 px-4 bg-[#141211]">
+        <div class="max-w-7xl mx-auto">
+            <div class="text-center max-w-2xl mx-auto mb-16">
+                <span data-i18n="maint_badge" class="text-amber-400 font-bold uppercase tracking-wider text-sm bg-amber-500/10 px-4 py-1.5 rounded-xl border border-amber-500/20 inline-block shadow-md">قسم الصيانة</span>
+                <h2 data-i18n="maint_title" class="text-3xl sm:text-4xl font-extrabold text-white mt-4 mb-4">أعمال صيانة وإصلاح المنازل</h2>
+                <p data-i18n="maint_desc" class="text-slate-300 font-light">فريق من المهندسين والفنيين المحترفين لصيانة جميع مرافق منزلك بكفاءة وسرعة.</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Maint Item 1 -->
+                <div class="glass-card rounded-3xl overflow-hidden group flex flex-col justify-between transition duration-500">
+                    <div>
+                        <div class="h-56 overflow-hidden relative">
+                            <img src="https://images.unsplash.com/photo-1585704032915-c3400ca199e7?auto=format&fit=crop&w=800&q=80" alt="أعمال السباكة" class="w-full h-full object-cover group-hover:scale-110 transition duration-700">
+                            <div class="absolute inset-0 bg-gradient-to-t from-[#141211] via-transparent to-transparent opacity-80"></div>
+                            <span data-i18n="tag_urgent" class="absolute top-4 ltr:right-4 rtl:left-4 bg-amber-600 text-white font-bold text-xs px-3 py-1.5 rounded-lg shadow-lg gold-glow">صيانة فورية</span>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex items-center gap-2 text-amber-400 text-sm font-bold mb-2">
+                                <i class="fa-solid fa-faucet-dripping"></i> <span data-i18n="card_m1_title">السباكة والصيانة الصحية</span>
+                            </div>
+                            <p data-i18n="card_m1_desc" class="text-slate-300 text-sm font-light leading-relaxed mb-4">
+                                كشف تسربات المياه، إصلاح وصيانة شبكات الصرف الصحي، تغيير الخلاطات، وإصلاح الأعطال الفورية باحترافية.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="p-6 pt-0 flex items-center justify-between border-t border-amber-900/30 mt-auto">
+                        <span data-i18n="card_m1_price" class="text-amber-300 font-bold text-sm">20 د.أ</span>
+                        <button onclick="addToCart('السباكة والصيانة الصحية', 20)" class="px-4 py-2 rounded-xl bg-gradient-to-r from-amber-600 to-amber-500 text-white hover:from-amber-500 hover:to-amber-400 transition text-xs font-bold shadow-md flex items-center gap-1.5">
+                            <i class="fa-solid fa-cart-plus text-sm"></i> <span>إضافة للسلة</span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Maint Item 2 -->
+                <div class="glass-card rounded-3xl overflow-hidden group flex flex-col justify-between transition duration-500">
+                    <div>
+                        <div class="h-56 overflow-hidden relative">
+                            <img src="https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=800&q=80" alt="الأعمال الكهربائية" class="w-full h-full object-cover group-hover:scale-110 transition duration-700">
+                            <div class="absolute inset-0 bg-gradient-to-t from-[#141211] via-transparent to-transparent opacity-80"></div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex items-center gap-2 text-amber-400 text-sm font-bold mb-2">
+                                <i class="fa-solid fa-bolt"></i> <span data-i18n="card_m2_title">الأعمال الكهربائية والإضاءة</span>
+                            </div>
+                            <p data-i18n="card_m2_desc" class="text-slate-300 text-sm font-light leading-relaxed mb-4">
+                                إصلاح الأعطال الكهربائية، تركيب لوحات القواطع، تركيب الإنارة والديكورات الحديثة، وتمديد الأسلاك بأمان.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="p-6 pt-0 flex items-center justify-between border-t border-amber-900/30 mt-auto">
+                        <span data-i18n="card_m2_price" class="text-amber-300 font-bold text-sm">20 د.أ</span>
+                        <button onclick="addToCart('الأعمال الكهربائية والإضاءة', 20)" class="px-4 py-2 rounded-xl bg-gradient-to-r from-amber-600 to-amber-500 text-white hover:from-amber-500 hover:to-amber-400 transition text-xs font-bold shadow-md flex items-center gap-1.5">
+                            <i class="fa-solid fa-cart-plus text-sm"></i> <span>إضافة للسلة</span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Maint Item 3 -->
+                <div class="glass-card rounded-3xl overflow-hidden group flex flex-col justify-between transition duration-500">
+                    <div>
+                        <div class="h-56 overflow-hidden relative">
+                            <img src="https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=800&q=80" alt="صيانة المكيفات" class="w-full h-full object-cover group-hover:scale-110 transition duration-700">
+                            <div class="absolute inset-0 bg-gradient-to-t from-[#141211] via-transparent to-transparent opacity-80"></div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex items-center gap-2 text-amber-400 text-sm font-bold mb-2">
+                                <i class="fa-solid fa-screwdriver-wrench"></i> <span data-i18n="card_m3_title">صيانة وتعبئة فريون المكيفات</span>
+                            </div>
+                            <p data-i18n="card_m3_desc" class="text-slate-300 text-sm font-light leading-relaxed mb-4">
+                                تعبئة غاز الفريون، إصلاح أعطال الكمبروسر، وتمديد نحاس المكيفات لكافة الأنواع (اسبليت، مركزي، كاسيت).
+                            </p>
+                        </div>
+                    </div>
+                    <div class="p-6 pt-0 flex items-center justify-between border-t border-amber-900/30 mt-auto">
+                        <span data-i18n="card_m3_price" class="text-amber-300 font-bold text-sm">35 د.أ</span>
+                        <button onclick="addToCart('صيانة وتعبئة فريون المكيفات', 35)" class="px-4 py-2 rounded-xl bg-gradient-to-r from-amber-600 to-amber-500 text-white hover:from-amber-500 hover:to-amber-400 transition text-xs font-bold shadow-md flex items-center gap-1.5">
+                            <i class="fa-solid fa-cart-plus text-sm"></i> <span>إضافة للسلة</span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Maint Item 4 -->
+                <div class="glass-card rounded-3xl overflow-hidden group flex flex-col justify-between transition duration-500">
+                    <div>
+                        <div class="h-56 overflow-hidden relative">
+                            <img src="https://images.unsplash.com/photo-1562259949-e8e7689d7828?auto=format&fit=crop&w=800&q=80" alt="الدهانات والديكورات" class="w-full h-full object-cover group-hover:scale-110 transition duration-700">
+                            <div class="absolute inset-0 bg-gradient-to-t from-[#141211] via-transparent to-transparent opacity-80"></div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex items-center gap-2 text-amber-400 text-sm font-bold mb-2">
+                                <i class="fa-solid fa-paint-roller"></i> <span data-i18n="card_m4_title">الدهانات والديكورات الحديثة</span>
+                            </div>
+                            <p data-i18n="card_m4_desc" class="text-slate-300 text-sm font-light leading-relaxed mb-4">
+                                تنفيذ أعمال الدهانات الداخلية والخارجية، ورق الجدران، والديكورات الراقية بلمسات فنية رائعة.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="p-6 pt-0 flex items-center justify-between border-t border-amber-900/30 mt-auto">
+                        <span data-i18n="card_m4_price" class="text-amber-300 font-bold text-sm">50 د.أ</span>
+                        <button onclick="addToCart('الدهانات والديكورات الحديثة', 50)" class="px-4 py-2 rounded-xl bg-gradient-to-r from-amber-600 to-amber-500 text-white hover:from-amber-500 hover:to-amber-400 transition text-xs font-bold shadow-md flex items-center gap-1.5">
+                            <i class="fa-solid fa-cart-plus text-sm"></i> <span>إضافة للسلة</span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Maint Item 5 -->
+                <div class="glass-card rounded-3xl overflow-hidden group flex flex-col justify-between transition duration-500">
+                    <div>
+                        <div class="h-56 overflow-hidden relative">
+                            <img src="https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80" alt="صيانة الأجهزة" class="w-full h-full object-cover group-hover:scale-110 transition duration-700">
+                            <div class="absolute inset-0 bg-gradient-to-t from-[#141211] via-transparent to-transparent opacity-80"></div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex items-center gap-2 text-amber-400 text-sm font-bold mb-2">
+                                <i class="fa-solid fa-blender"></i> <span data-i18n="card_m5_title">صيانة الأجهزة المنزلية</span>
+                            </div>
+                            <p data-i18n="card_m5_desc" class="text-slate-300 text-sm font-light leading-relaxed mb-4">
+                                إصلاح الغسالات، الأفران، الثلاجات، والمجففات بقطع غيار أصلية معتمدة وضمان شامل على الإصلاح.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="p-6 pt-0 flex items-center justify-between border-t border-amber-900/30 mt-auto">
+                        <span data-i18n="card_m5_price" class="text-amber-300 font-bold text-sm">25 د.أ</span>
+                        <button onclick="addToCart('صيانة الأجهزة المنزلية', 25)" class="px-4 py-2 rounded-xl bg-gradient-to-r from-amber-600 to-amber-500 text-white hover:from-amber-500 hover:to-amber-400 transition text-xs font-bold shadow-md flex items-center gap-1.5">
+                            <i class="fa-solid fa-cart-plus text-sm"></i> <span>إضافة للسلة</span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Maint Item 6 -->
+                <div class="glass-card rounded-3xl overflow-hidden group flex flex-col justify-between transition duration-500">
+                    <div>
+                        <div class="h-56 overflow-hidden relative">
+                            <img src="https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=800&q=80" alt="عزل الأسطح" class="w-full h-full object-cover group-hover:scale-110 transition duration-700">
+                            <div class="absolute inset-0 bg-gradient-to-t from-[#141211] via-transparent to-transparent opacity-80"></div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex items-center gap-2 text-amber-400 text-sm font-bold mb-2">
+                                <i class="fa-solid fa-layer-group"></i> <span data-i18n="card_m6_title">عزل الأسطح والخزانات</span>
+                            </div>
+                            <p data-i18n="card_m6_desc" class="text-slate-300 text-sm font-light leading-relaxed mb-4">
+                                عزل مائي وحراري للأسطح لحمايتها من تسربات الأمطار وارتفاع الحرارة مع ضمانات طويلة الأمد.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="p-6 pt-0 flex items-center justify-between border-t border-amber-900/30 mt-auto">
+                        <span data-i18n="card_m6_price" class="text-amber-300 font-bold text-sm">70 د.أ</span>
+                        <button onclick="addToCart('عزل الأسطح والخزانات', 70)" class="px-4 py-2 rounded-xl bg-gradient-to-r from-amber-600 to-amber-500 text-white hover:from-amber-500 hover:to-amber-400 transition text-xs font-bold shadow-md flex items-center gap-1.5">
+                            <i class="fa-solid fa-cart-plus text-sm"></i> <span>إضافة للسلة</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Shopping Cart & Customer Data Section -->
+    <section id="booking" class="py-20 lg:py-32 px-4 bg-[#0f0e0d] relative">
+        <div class="max-w-5xl mx-auto">
+            <div class="text-center mb-12">
+                <span data-i18n="book_badge" class="text-amber-400 font-bold uppercase tracking-wider text-sm bg-amber-500/10 px-4 py-1.5 rounded-xl border border-amber-500/20 inline-block shadow-md">سلة المشتريات وبيانات الحجز</span>
+                <h2 data-i18n="book_title" class="text-3xl sm:text-4xl font-extrabold text-white mt-4 mb-4">تأكيد الطلب والحاسبة التلقائية</h2>
+                <p data-i18n="book_desc" class="text-slate-300 font-light">راجِع الخدمات المختارة في السلة، وقم بتعبئة بياناتك الشخصية وتحديد موقعك عبر الـ GPS لتأكيد الطلب فوراً.</p>
+            </div>
+            
+            <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
+                <!-- Cart Summary & Automatic Calculator -->
+                <div class="lg:col-span-5 glass-card p-6 rounded-3xl border border-amber-900/50 shadow-2xl flex flex-col justify-between">
+                    <div>
+                        <div class="flex items-center justify-between pb-4 border-b border-amber-900/40 mb-4">
+                            <h3 class="text-lg font-bold text-amber-400 flex items-center gap-2">
+                                <i class="fa-solid fa-cart-shopping"></i> الخدمات المختارة
+                            </h3>
+                            <button onclick="clearCart()" class="text-xs text-red-400 hover:underline">تفريغ السلة</button>
+                        </div>
+                        
+                        <!-- Cart Items List Container -->
+                        <div id="cart-items-list" class="space-y-3 max-h-80 overflow-y-auto pr-1">
+                            <p class="text-slate-400 text-xs text-center py-8">السلة فارغة حالياً. قم بفيض الخدمات من الأعلى.</p>
+                        </div>
+                    </div>
+
+                    <!-- Automatic Calculator Display -->
+                    <div class="pt-4 border-t border-amber-900/40 mt-6 space-y-2">
+                        <div class="flex items-center justify-between text-sm text-slate-300">
+                            <span>المجموع الفرعي:</span>
+                            <span id="subtotal-price" class="font-bold">0 د.أ</span>
+                        </div>
+                        <div class="flex items-center justify-between text-sm text-slate-300">
+                            <span>رسوم المعاينة والتوصيل:</span>
+                            <span class="text-emerald-400 font-bold">مجاناً</span>
+                        </div>
+                        <div class="flex items-center justify-between text-lg font-extrabold text-amber-400 pt-2 border-t border-amber-500/20">
+                            <span>الإجمالي الكلي:</span>
+                            <span id="total-price" class="text-2xl">0 د.أ</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Customer Details Form & GPS Location -->
+                <div class="lg:col-span-7 glass-card p-8 rounded-3xl border border-amber-900/50 shadow-2xl">
+                    <form id="booking-form" class="space-y-5">
+                        <h3 class="text-lg font-bold text-amber-400 pb-3 border-b border-amber-900/40 mb-4 flex items-center gap-2">
+                            <i class="fa-solid fa-user-gear"></i> البيانات الشخصية للعميل
+                        </h3>
+
+                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-5">
+                            <div>
+                                <label class="block text-xs font-bold text-slate-300 mb-1.5">الاسم الكامل</label>
+                                <input type="text" id="b-name" required class="w-full px-4 py-3 rounded-xl border border-amber-900/50 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-[#121110] text-white text-sm" placeholder="أدخل اسمك الكريم">
+                            </div>
+                            <div>
+                                <label class="block text-xs font-bold text-slate-300 mb-1.5">رقم الهاتف / الواتساب</label>
+                                <input type="tel" id="b-phone" required class="w-full px-4 py-3 rounded-xl border border-amber-900/50 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-[#121110] text-white text-sm" placeholder="07xxxxxxxx">
+                            </div>
+                        </div>
+
+                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-5">
+                            <div>
+                                <label class="block text-xs font-bold text-slate-300 mb-1.5">تاريخ الخدمة المفضل</label>
+                                <input type="date" id="b-date" required class="w-full px-4 py-3 rounded-xl border border-amber-900/50 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-[#121110] text-white text-sm">
+                            </div>
+                            <div>
+                                <label class="block text-xs font-bold text-slate-300 mb-1.5">المدينة / المنطقة</label>
+                                <input type="text" id="b-city" required class="w-full px-4 py-3 rounded-xl border border-amber-900/50 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-[#121110] text-white text-sm" placeholder="مثال: عمان، عبدون">
+                            </div>
+                        </div>
+
+                        <!-- GPS Location Button Section -->
+                        <div>
+                            <label class="block text-xs font-bold text-slate-300 mb-1.5">تحديد الموقع الجغرافي (GPS)</label>
+                            <div class="flex gap-2">
+                                <button type="button" id="get-location-btn" onclick="getGPSLocation()" class="px-4 py-3 bg-amber-500/20 border border-amber-500/40 hover:bg-amber-500/30 text-amber-300 rounded-xl text-xs font-bold flex items-center gap-2 transition flex-shrink-0">
+                                    <i class="fa-solid fa-location-crosshairs text-base"></i> <span>تحديد موقعي الآن</span>
+                                </button>
+                                <input type="text" id="b-location-url" readonly class="w-full px-4 py-3 rounded-xl border border-amber-900/50 bg-[#121110]/50 text-slate-400 text-xs overflow-hidden" placeholder="رابط موقعك عبر الخريطة يظهر هنا تلقائياً...">
+                            </div>
+                        </div>
+
+                        <div>
+                            <label class="block text-xs font-bold text-slate-300 mb-1.5">تفاصيل إضافية / ملاحظات الخاصية</label>
+                            <textarea id="b-details" rows="2" class="w-full px-4 py-3 rounded-xl border border-amber-900/50 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-[#121110] text-white text-sm" placeholder="اكتب رقم الشقة، المبنى أو أي تفاصيل أُخرى..."></textarea>
+                        </div>
+
+                        <button type="submit" class="w-full py-4 rounded-xl bg-gradient-to-r from-green-600 to-emerald-600 text-white font-bold hover:from-green-500 hover:to-emerald-500 transition shadow-xl shadow-green-950/50 flex items-center justify-center gap-2 hover:scale-[1.01] active:scale-[0.99] text-sm sm:text-base">
+                            <i class="fa-brands fa-whatsapp text-2xl"></i> <span>إرسال الطلب وإجمالي السلة إلى الواتساب (0782591669)</span>
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Global Corporate Inquiries Section -->
+    <section id="global-inquiries" class="py-20 lg:py-32 px-4 bg-[#141211] relative border-t border-amber-900/30">
+        <div class="max-w-5xl mx-auto">
+            <div class="text-center mb-12">
+                <span data-i18n="global_badge" class="text-amber-400 font-bold uppercase tracking-wider text-sm bg-amber-500/10 px-4 py-1.5 rounded-xl border border-amber-500/20 inline-block shadow-md">شراكات وحلول أعمال عالمية</span>
+                <h2 data-i18n="global_title" class="text-3xl sm:text-4xl font-extrabold text-white mt-4 mb-4">مراسلات الشركات العالمية والمؤسسات</h2>
+                <p data-i18n="global_desc" class="text-slate-300 font-light">نرحب بالشراكات الاستراتيجية والعقود المؤسسية الدولية. أرسل استفسارك الرسمي مباشرة إلى قسم العلاقات الدولية والشركات.</p>
+            </div>
+
+            <div class="glass-card p-8 sm:p-10 rounded-3xl border border-amber-500/30 shadow-2xl">
+                <form id="global-company-form" class="space-y-6">
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                        <div>
+                            <label class="block text-xs font-bold text-slate-300 mb-2"><i class="fa-solid fa-building text-amber-400 ltr:mr-1 rtl:ml-1"></i> اسم الشركة / المنظمة العالمية</label>
+                            <input type="text" id="g-company-name" required class="w-full px-4 py-3 rounded-xl border border-amber-900/50 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-[#121110] text-white text-sm" placeholder="e.g. Global Solutions Corp">
+                        </div>
+                        <div>
+                            <label class="block text-xs font-bold text-slate-300 mb-2"><i class="fa-solid fa-globe text-amber-400 ltr:mr-1 rtl:ml-1"></i> الدولة / المقر الرئيسي</label>
+                            <input type="text" id="g-country" required class="w-full px-4 py-3 rounded-xl border border-amber-900/50 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-[#121110] text-white text-sm" placeholder="مثال: الإمارات / USA / UK">
+                        </div>
+                    </div>
+
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                        <div>
+                            <label class="block text-xs font-bold text-slate-300 mb-2"><i class="fa-solid fa-envelope text-amber-400 ltr:mr-1 rtl:ml-1"></i> البريد الإلكتروني الرسمي للشركة</label>
+                            <input type="email" id="g-email" required class="w-full px-4 py-3 rounded-xl border border-amber-900/50 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-[#121110] text-white text-sm" placeholder="corporate@company.com">
+                        </div>
+                        <div>
+                            <label class="block text-xs font-bold text-slate-300 mb-2"><i class="fa-solid fa-phone text-amber-400 ltr:mr-1 rtl:ml-1"></i> رقم الهاتف الدولي</label>
+                            <input type="tel" id="g-phone" required class="w-full px-4 py-3 rounded-xl border border-amber-900/50 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-[#121110] text-white text-sm" placeholder="+1234567890">
+                        </div>
+                    </div>
+
+                    <div>
+                        <label class="block text-xs font-bold text-slate-300 mb-2"><i class="fa-solid fa-file-signature text-amber-400 ltr:mr-1 rtl:ml-1"></i> موضوع العرض / الشراكة</label>
+                        <input type="text" id="g-subject" required class="w-full px-4 py-3 rounded-xl border border-amber-900/50 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-[#121110] text-white text-sm" placeholder="طلب عقد خدمات / شراكة استراتيجية / توريد">
+                    </div>
+
+                    <div>
+                        <label class="block text-xs font-bold text-slate-300 mb-2"><i class="fa-solid fa-message text-amber-400 ltr:mr-1 rtl:ml-1"></i> تفاصيل الرسالة أو العرض التجاري</label>
+                        <textarea id="g-message" rows="4" required class="w-full px-4 py-3 rounded-xl border border-amber-900/50 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-[#121110] text-white text-sm" placeholder="اكتب التفاصيل وشروط الشراكة المبدئية هنا..."></textarea>
+                    </div>
+
+                    <button type="submit" class="w-full py-4 rounded-xl bg-gradient-to-r from-amber-600 via-amber-500 to-amber-600 text-slate-950 font-extrabold hover:brightness-110 transition shadow-xl gold-glow flex items-center justify-center gap-2 text-sm sm:text-base">
+                        <i class="fa-solid fa-paper-plane text-lg"></i> <span data-i18n="btn_send_corporate">إرسال الرسالة رسمياً عبر البريد (corporate@ghalaa.com)</span>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Careers & CV Submission Section -->
+    <section id="careers" class="py-20 lg:py-32 px-4 bg-[#0f0e0d] relative border-t border-amber-900/30">
+        <div class="max-w-5xl mx-auto">
+            <div class="text-center mb-12">
+                <span data-i18n="careers_badge" class="text-amber-400 font-bold uppercase tracking-wider text-sm bg-amber-500/10 px-4 py-1.5 rounded-xl border border-amber-500/20 inline-block shadow-md">الانضمام لفريقنا الملكي</span>
+                <h2 data-i18n="careers_title" class="text-3xl sm:text-4xl font-extrabold text-white mt-4 mb-4">تقديم طلبات التوظيف وإرسال CV</h2>
+                <p data-i18n="careers_desc" class="text-slate-300 font-light">تبحث عن فرصة عمل ممتازة؟ نرحب بالكفاءات والخبراء والفنيين. قم بتعبئة بياناتك وإرفاق رابط السيرة الذاتية لتقييم طلبك فوراً.</p>
+            </div>
+
+            <div class="glass-card p-8 sm:p-10 rounded-3xl border border-amber-500/30 shadow-2xl">
+                <form id="careers-form" class="space-y-6">
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                        <div>
+                            <label class="block text-xs font-bold text-slate-300 mb-2"><i class="fa-solid fa-user text-amber-400 ltr:mr-1 rtl:ml-1"></i> الاسم المتقدم الرباعي</label>
+                            <input type="text" id="cv-name" required class="w-full px-4 py-3 rounded-xl border border-amber-900/50 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-[#121110] text-white text-sm" placeholder="أدخل اسمك الكامل">
+                        </div>
+                        <div>
+                            <label class="block text-xs font-bold text-slate-300 mb-2"><i class="fa-solid fa-phone text-amber-400 ltr:mr-1 rtl:ml-1"></i> رقم الهاتف / الواتساب</label>
+                            <input type="tel" id="cv-phone" required class="w-full px-4 py-3 rounded-xl border border-amber-900/50 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-[#121110] text-white text-sm" placeholder="07xxxxxxxx">
+                        </div>
+                    </div>
+
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                        <div>
+                            <label class="block text-xs font-bold text-slate-300 mb-2"><i class="fa-solid fa-envelope text-amber-400 ltr:mr-1 rtl:ml-1"></i> البريد الإلكتروني</label>
+                            <input type="email" id="cv-email" required class="w-full px-4 py-3 rounded-xl border border-amber-900/50 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-[#121110] text-white text-sm" placeholder="name@domain.com">
+                        </div>
+                        <div>
+                            <label class="block text-xs font-bold text-slate-300 mb-2"><i class="fa-solid fa-briefcase text-amber-400 ltr:mr-1 rtl:ml-1"></i> الوظيفة المطلوبة / التخصص</label>
+                            <select id="cv-job" required class="w-full px-4 py-3 rounded-xl border border-amber-900/50 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-[#121110] text-white text-sm">
+                                <option value="" disabled selected>اختر التخصص المناسب...</option>
+                                <option value="فني صيانة سباكة">فني صيانة سباكة</option>
+                                <option value="فني كهرباء وإنارة">فني كهرباء وإنارة</option>
+                                <option value="فني صيانة وتكييف">فني صيانة وتكييف</option>
+                                <option value="مشرف تنظيفات ونظافة">مشرف تنظيفات ونظافة</option>
+                                <option value="عامل / عاملة تنظيف">عامل / عاملة تنظيف</option>
+                                <option value="خدمة عملاء وتسويق">خدمة عملاء وتسويق</option>
+                                <option value="تخصص آخر">تخصص آخر</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                        <div>
+                            <label class="block text-xs font-bold text-slate-300 mb-2"><i class="fa-solid fa-business-time text-amber-400 ltr:mr-1 rtl:ml-1"></i> عدد سنوات الخبرة</label>
+                            <input type="text" id="cv-experience" required class="w-full px-4 py-3 rounded-xl border border-amber-900/50 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-[#121110] text-white text-sm" placeholder="مثال: 3 سنوات في مجال الصيانة">
+                        </div>
+                        <div>
+                            <label class="block text-xs font-bold text-slate-300 mb-2"><i class="fa-solid fa-link text-amber-400 ltr:mr-1 rtl:ml-1"></i> رابط CV (Google Drive / LinkedIn / Dropbox)</label>
+                            <input type="url" id="cv-link" required class="w-full px-4 py-3 rounded-xl border border-amber-900/50 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-[#121110] text-white text-sm" placeholder="https://drive.google.com/your-cv-link">
+                        </div>
+                    </div>
+
+                    <div>
+                        <label class="block text-xs font-bold text-slate-300 mb-2"><i class="fa-solid fa-pen-to-square text-amber-400 ltr:mr-1 rtl:ml-1"></i> نبذة مختصرة عن مؤهلاتك</label>
+                        <textarea id="cv-notes" rows="3" class="w-full px-4 py-3 rounded-xl border border-amber-900/50 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-[#121110] text-white text-sm" placeholder="اكتب ملخصاً سريعا عن مهاراتك وأماكن عملك السابقة..."></textarea>
+                    </div>
+
+                    <button type="submit" class="w-full py-4 rounded-xl bg-gradient-to-r from-emerald-600 to-green-600 text-white font-extrabold hover:from-emerald-500 hover:to-green-500 transition shadow-xl flex items-center justify-center gap-2 text-sm sm:text-base">
+                        <i class="fa-solid fa-file-arrow-up text-lg"></i> <span data-i18n="btn_send_cv">إرسال طلب التوظيف والـ CV للشركة</span>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="py-20 lg:py-32 px-4 bg-[#141211]">
+        <div class="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+            <div class="space-y-8">
+                <div>
+                    <span data-i18n="contact_badge" class="text-amber-400 font-bold uppercase tracking-wider text-sm bg-amber-500/10 px-4 py-1.5 rounded-xl border border-amber-500/20 inline-block shadow-md">تواصل معنا المباشر</span>
+                    <h2 data-i18n="contact_title" class="text-3xl sm:text-4xl font-extrabold text-white mt-4 mb-4">جاهزون لخدمتكم على مدار الساعة</h2>
+                    <p data-i18n="contact_desc" class="text-slate-300 font-light leading-relaxed">
+                        تواصل معنا عبر الرقم المباشر أو عبر رسائل الواتساب الفورية لطلب خدمات التنظيف والصيانة بكافة أنواعها.
+                    </p>
+                </div>
+
+                <div class="space-y-4">
+                    <a href="tel:0782591669" class="flex items-center gap-4 p-5 rounded-2xl glass-card transition duration-300 hover:border-amber-400">
+                        <div class="w-12 h-12 rounded-xl bg-amber-500/10 text-amber-400 border border-amber-500/30 flex items-center justify-center text-xl font-bold gold-glow">
+                            <i class="fa-solid fa-phone"></i>
+                        </div>
+                        <div>
+                            <span data-i18n="contact_call_label" class="text-xs text-slate-400 block font-medium">اتصل بنا مباشرة</span>
+                            <span class="text-white font-bold tracking-wider text-lg" dir="ltr">0782591669</span>
+                        </div>
+                    </a>
+
+                    <a href="https://wa.me/962782591669" target="_blank" class="flex items-center gap-4 p-5 rounded-2xl glass-card transition duration-300 hover:border-green-400">
+                        <div class="w-12 h-12 rounded-xl bg-green-500/10 text-green-400 border border-green-500/30 flex items-center justify-center text-xl font-bold gold-glow">
+                            <i class="fa-brands fa-whatsapp"></i>
+                        </div>
+                        <div>
+                            <span data-i18n="contact_wa_label" class="text-xs text-slate-400 block font-medium">المحادثة السريعة عبر الواتساب</span>
+                            <span class="text-white font-bold text-lg" dir="ltr">0782591669</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Location Card with Logo Image -->
+            <div class="relative rounded-3xl overflow-hidden border-2 border-amber-500/40 shadow-2xl h-96 bg-[#141211] flex items-center justify-center gold-glow-lg group">
+                <div class="absolute inset-0 opacity-40 group-hover:scale-105 transition duration-700">
+                    <img src="c1d16bb7-c437-483f-8d51-190965f9e896.jpg" alt="Logo BG" class="w-full h-full object-cover filter blur-xs">
+                </div>
+                <div class="relative z-10 text-center p-8 bg-black/80 backdrop-blur-md rounded-3xl border border-amber-500/40 max-w-sm shadow-2xl">
+                    <div class="w-20 h-20 rounded-2xl overflow-hidden border-2 border-amber-500/60 mx-auto mb-4 bg-black gold-glow">
+                        <img src="c1d16bb7-c437-483f-8d51-190965f9e896.jpg" alt="Logo" class="w-full h-full object-cover">
+                    </div>
+                    <h3 data-i18n="card_company_name" class="text-xl font-bold text-white mb-2">شركة غلا للخدمات المنزلية</h3>
+                    <p data-i18n="card_company_desc" class="text-xs text-slate-300 mb-6">احصل على استشارة مجانية وحجز فوري لكافة أعمال الصيانة والتنظيف.</p>
+                    <a href="https://wa.me/962782591669?text=مرحباً%20شركة%20غلا" target="_blank" class="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-green-600 text-white font-bold text-sm hover:bg-green-500 transition shadow-lg hover:scale-105 active:scale-95">
+                        <i class="fa-brands fa-whatsapp text-lg"></i> <span data-i18n="card_company_btn">راسل عبر واتساب: 0782591669</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Floating WhatsApp Button -->
+    <div class="fixed bottom-6 left-6 z-50 flex items-center gap-2">
+        <a href="https://wa.me/962782591669?text=مرحباً%20شركة%20غلا،%20أرغب%20في%20طلب%20خدمة" target="_blank" aria-label="WhatsApp" class="relative w-14 h-14 bg-green-600 text-white rounded-full flex items-center justify-center text-2xl shadow-2xl hover:bg-green-500 hover:scale-110 transition duration-300 gold-glow">
+            <i class="fa-brands fa-whatsapp"></i>
+            <span class="absolute top-0 right-0 w-3.5 h-3.5 bg-emerald-400 border-2 border-slate-900 rounded-full animate-ping"></span>
+            <span class="absolute top-0 right-0 w-3.5 h-3.5 bg-emerald-400 border-2 border-slate-900 rounded-full"></span>
+        </a>
+    </div>
+
+    <!-- Back to Top Button -->
+    <button id="back-to-top" aria-label="Back to top" class="fixed bottom-6 right-6 z-50 w-12 h-12 bg-amber-600/80 hover:bg-amber-500 text-white rounded-full hidden items-center justify-center text-lg backdrop-blur-md border border-amber-400/40 shadow-xl transition hover:scale-110">
+        <i class="fa-solid fa-arrow-up"></i>
+    </button>
+
+    <!-- Footer -->
+    <footer class="bg-[#0a0908] text-white py-14 px-4 border-t border-amber-900/40 relative">
+        <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-8 mb-12">
+            <div class="space-y-4">
+                <div class="flex items-center gap-3">
+                    <div class="w-10 h-10 rounded-lg overflow-hidden border border-amber-500/50 shadow-md bg-black">
+                        <img src="c1d16bb7-c437-483f-8d51-190965f9e896.jpg" alt="Logo" class="w-full h-full object-cover">
+                    </div>
+                    <span class="text-lg font-bold bg-gradient-to-r from-amber-200 to-amber-500 bg-clip-text text-transparent">غلا | GHALAA LLC</span>
+                </div>
+                <p data-i18n="footer_about" class="text-slate-400 text-sm font-light leading-relaxed">
+                    الشركة الرائدة في تقديم خدمات تنظيف وصيانة المنازل والفلل بمعايير ملكية فاخرة وموثوقة.
+                </p>
+            </div>
+
+            <div>
+                <h4 data-i18n="footer_quick_links" class="text-amber-400 font-bold mb-4">روابط سريعة</h4>
+                <ul class="space-y-2 text-sm text-slate-300">
+                    <li><a href="#home" data-i18n="nav_home" class="hover:text-amber-400 transition">الرئيسية</a></li>
+                    <li><a href="#why-us" data-i18n="nav_why_us" class="hover:text-amber-400 transition">لماذا نحن</a></li>
+                    <li><a href="#cleaning" data-i18n="nav_cleaning" class="hover:text-amber-400 transition">خدمات التنظيف</a></li>
+                    <li><a href="#maintenance" data-i18n="nav_maintenance" class="hover:text-amber-400 transition">خدمات الصيانة</a></li>
+                    <li><a href="#global-inquiries" data-i18n="nav_global" class="hover:text-amber-400 transition">للشركات العالمية</a></li>
+                    <li><a href="#careers" data-i18n="nav_careers" class="hover:text-amber-400 transition">تقديم طلب توظيف (CV)</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h4 data-i18n="footer_contact_head" class="text-amber-400 font-bold mb-4">حجز وتواصل مباشر</h4>
+                <ul class="space-y-2 text-sm text-slate-300">
+                    <li><a href="https://wa.me/962782591669" target="_blank" class="hover:text-amber-400 transition">WhatsApp: 0782591669</a></li>
+                    <li><a href="tel:0782591669" class="hover:text-amber-400 transition">Call: 0782591669</a></li>
+                    <li><a href="mailto:corporate@ghalaa.com" class="hover:text-amber-400 transition">Email: corporate@ghalaa.com</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h4 data-i18n="footer_follow" class="text-amber-400 font-bold mb-4">تابعنا على</h4>
+                <div class="flex items-center gap-3 text-xl text-amber-400">
+                    <a href="#" class="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 flex items-center justify-center hover:bg-amber-600 hover:text-white transition"><i class="fa-brands fa-facebook"></i></a>
+                    <a href="#" class="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 flex items-center justify-center hover:bg-amber-600 hover:text-white transition"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="#" class="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 flex items-center justify-center hover:bg-amber-600 hover:text-white transition"><i class="fa-brands fa-whatsapp"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="max-w-7xl mx-auto pt-8 border-t border-amber-900/20 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-400">
+            <p data-i18n="footer_rights">جميع الحقوق محفوظة © 2026 شركة GHALAA LLC | غلا للخدمات المنزلية.</p>
+            <p data-i18n="footer_support" class="mt-2 sm:mt-0">للحجز والاستفسار: 0782591669</p>
+        </div>
+    </footer>
+
+    <!-- JavaScript Logic & Calculator & GPS Location -->
+    <script>
+        // Shopping Cart Array State
+        let cart = [];
+
+        // Add item to Cart
+        function addToCart(title, price) {
+            const existingItem = cart.find(item => item.title === title);
+            if (existingItem) {
+                existingItem.quantity += 1;
+            } else {
+                cart.push({ title, price, quantity: 1 });
+            }
+            updateCartUI();
+        }
+
+        // Remove single item or decrease
+        function changeQty(title, delta) {
+            const item = cart.find(i => i.title === title);
+            if (item) {
+                item.quantity += delta;
+                if (item.quantity <= 0) {
+                    cart = cart.filter(i => i.title !== title);
+                }
+            }
+            updateCartUI();
+        }
+
+        // Clear All Cart Items
+        function clearCart() {
+            cart = [];
+            updateCartUI();
+        }
+
+        // Automatic Calculator & UI Updates
+        function updateCartUI() {
+            const cartList = document.getElementById('cart-items-list');
+            const cartBadge = document.getElementById('cart-badge');
+            const cartBadgeMobile = document.getElementById('cart-badge-mobile');
+            const subtotalPrice = document.getElementById('subtotal-price');
+            const totalPrice = document.getElementById('total-price');
+
+            let totalCount = 0;
+            let totalAmount = 0;
+
+            if (cart.length === 0) {
+                cartList.innerHTML = `<p class="text-slate-400 text-xs text-center py-8">السلة فارغة حالياً. قم باختيار الخدمات من الأعلى.</p>`;
+            } else {
+                cartList.innerHTML = cart.map(item => {
+                    const itemTotal = item.price * item.quantity;
+                    totalCount += item.quantity;
+                    totalAmount += itemTotal;
+                    return `
+                        <div class="flex items-center justify-between p-3 bg-[#121110] border border-amber-900/30 rounded-xl text-xs">
+                            <div class="flex-1 ltr:pr-2 rtl:pl-2">
+                                <h4 class="font-bold text-slate-200">${item.title}</h4>
+                                <span class="text-amber-400 font-semibold">${item.price} د.أ / للوحدة</span>
+                            </div>
+                            <div class="flex items-center gap-2">
+                                <button onclick="changeQty('${item.title}', -1)" class="w-6 h-6 rounded bg-amber-500/20 text-amber-300 flex items-center justify-center font-bold hover:bg-amber-500/40">-</button>
+                                <span class="text-white font-bold">${item.quantity}</span>
+                                <button onclick="changeQty('${item.title}', 1)" class="w-6 h-6 rounded bg-amber-500/20 text-amber-300 flex items-center justify-center font-bold hover:bg-amber-500/40">+</button>
+                                <span class="text-amber-300 font-bold ltr:ml-2 rtl:mr-2">${itemTotal} د.أ</span>
+                            </div>
+                        </div>
+                    `;
+                }).join('');
+            }
+
+            cartBadge.textContent = totalCount;
+            cartBadgeMobile.textContent = totalCount;
+            subtotalPrice.textContent = `${totalAmount} د.أ`;
+            totalPrice.textContent = `${totalAmount} د.أ`;
+        }
+
+        // GPS Location Functionality
+        function getGPSLocation() {
+            const locationInput = document.getElementById('b-location-url');
+            const btn = document.getElementById('get-location-btn');
+
+            if ("geolocation" in navigator) {
+                btn.innerHTML = `<i class="fa-solid fa-spinner fa-spin"></i> جاري التحديد...`;
+                navigator.geolocation.getCurrentPosition(
+                    (position) => {
+                        const lat = position.coords.latitude;
+                        const lng = position.coords.longitude;
+                        const mapsUrl = `https://maps.google.com/?q=${lat},${lng}`;
+                        locationInput.value = mapsUrl;
+                        btn.innerHTML = `<i class="fa-solid fa-check text-green-400"></i> تم التحديد`;
+                        btn.classList.replace('border-amber-500/40', 'border-green-500/60');
+                    },
+                    (error) => {
+                        alert("عذراً، تعذر الوصول إلى موقعك الجغرافي. الرجاء تفعيل صلاحية الموقع من المتصفح.");
+                        btn.innerHTML = `<i class="fa-solid fa-location-crosshairs"></i> تحديد موقعي الآن`;
+                    }
+                );
+            } else {
+                alert("خاصية تحديد الموقع غير مدعومة في متصفحك.");
+            }
+        }
+
+        // Cart Toggle Scroll to Booking Section
+        document.getElementById('cart-toggle-btn').addEventListener('click', () => {
+            document.getElementById('booking').scrollIntoView({ behavior: 'smooth' });
+        });
+        document.getElementById('cart-toggle-btn-mobile').addEventListener('click', () => {
+            document.getElementById('booking').scrollIntoView({ behavior: 'smooth' });
+        });
+
+        // Booking Form Submission Handler (Sends Form & Cart Details to WhatsApp)
+        const bookingForm = document.getElementById('booking-form');
+        bookingForm.addEventListener('submit', (e) => {
+            e.preventDefault();
+            
+            if (cart.length === 0) {
+                alert("يرجى إضافة خدمة واحدة على الأقل للسلة قبل إرسال الطلب.");
+                return;
+            }
+
+            const name = document.getElementById('b-name').value;
+            const phone = document.getElementById('b-phone').value;
+            const date = document.getElementById('b-date').value;
+            const city = document.getElementById('b-city').value;
+            const locationUrl = document.getElementById('b-location-url').value;
+            const details = document.getElementById('b-details').value;
+
+            let totalAmount = cart.reduce((acc, i) => acc + (i.price * i.quantity), 0);
+
+            let servicesText = cart.map(i => `  • ${i.title} (${i.quantity}x) - ${i.price * i.quantity} د.أ`).join('%0A');
+
+            let message = `🛒 *طلب جديد من الموقع الإلكتروني - شركة غلا*%0A%0A` +
+                `👤 *بيانات العميل:*%0A` +
+                `- الاسم: ${name}%0A` +
+                `- الهاتف: ${phone}%0A` +
+                `- المدينة/المنطقة: ${city}%0A` +
+                `- تاريخ الخدمة المفضل: ${date}%0A`;
+
+            if (locationUrl) {
+                message += `- رابط الموقع الجغرافي (GPS): ${locationUrl}%0A`;
+            }
+
+            if (details) {
+                message += `- ملاحظات التفاصيل: ${details}%0A`;
+            }
+
+            message += `%0A📋 *قائمة الخدمات بالسطة:*%0A${servicesText}%0A%0A` +
+                `💰 *الإجمالي الكلي التلقائي:* ${totalAmount} د.أ`;
+
+            window.open(`https://wa.me/962782591669?text=${message}`, '_blank');
+        });
+
+        // Global Company Email Handler
+        document.getElementById('global-company-form').addEventListener('submit', (e) => {
+            e.preventDefault();
+            const company = document.getElementById('g-company-name').value;
+            const country = document.getElementById('g-country').value;
+            const email = document.getElementById('g-email').value;
+            const phone = document.getElementById('g-phone').value;
+            const subject = document.getElementById('g-subject').value;
+            const msg = document.getElementById('g-message').value;
+
+            const mailBody = `اسم الشركة: ${company}\nالدولة: ${country}\nالبريد: ${email}\nالهاتف: ${phone}\n\nتفاصيل الرسالة:\n${msg}`;
+            window.location.href = `mailto:corporate@ghalaa.com?subject=${encodeURIComponent('[عروض شركات عالمية] ' + subject)}&body=${encodeURIComponent(mailBody)}`;
+        });
+
+        // Careers CV Handler
+        document.getElementById('careers-form').addEventListener('submit', (e) => {
+            e.preventDefault();
+            const name = document.getElementById('cv-name').value;
+            const phone = document.getElementById('cv-phone').value;
+            const email = document.getElementById('cv-email').value;
+            const job = document.getElementById('cv-job').value;
+            const exp = document.getElementById('cv-experience').value;
+            const link = document.getElementById('cv-link').value;
+            const notes = document.getElementById('cv-notes').value;
+
+            let message = `💼 *طلب توظيف جديد (CV) - شركة غلا*%0A%0A` +
+                `- الاسم الكامل: ${name}%0A` +
+                `- رقم الهاتف: ${phone}%0A` +
+                `- البريد الإلكتروني: ${email}%0A` +
+                `- الوظيفة المطلوبة: ${job}%0A` +
+                `- سنوات الخبرة: ${exp}%0A` +
+                `- رابط السيرة الذاتية (CV): ${link}%0A` +
+                `- نبذة عن المتقدم: ${notes}`;
+
+            window.open(`https://wa.me/962782591669?text=${message}`, '_blank');
+        });
+
+        // Language Translation Support
+        const i18n = {
+            ar: {
+                tagline: "للخدمات المنزلية والصيانة",
+                services_guide: "دليل الخدمات",
+                cat_cleaning: "<i class='fa-solid fa-broom'></i> خدمات التنظيف",
+                cat_maintenance: "<i class='fa-solid fa-wrench'></i> خدمات الصيانة",
+                cat_corporate: "<i class='fa-solid fa-building-flag'></i> خدمات الشركات والتوظيف",
+                nav_home: "الرئيسية",
+                nav_why_us: "لماذا غلا؟",
+                nav_cleaning: "التنظيف",
+                nav_maintenance: "الصيانة",
+                nav_booking: "السلة والحجز",
+                nav_global: "للشركات العالمية",
+                nav_careers: "التوظيف",
+                nav_contact: "تواصل معنا",
+                btn_whatsapp_quick: "حجز سريع عبر الواتساب",
+                btn_whatsapp_mobile: "احجز الآن عبر الواتساب (0782591669)",
+                hero_badge: "الفخامة والنظافة الملكية في عالم خدمات المنازل",
+                hero_title_company: "شركة",
+                hero_desc: "نقدم أعلى معايير الجودة في تنظيف وصيانة المنازل والفلل بمعايير ملكية فاخرة تضمن لك الراحة المطلقة والرفاهية التي تستحقها عائلتك.",
+                btn_hero_whatsapp: "احجز فوراً عبر الواتساب: 0782591669",
+                stat_1: "+ منزل تم تنظيفه وصيانته",
+                stat_2: "ضمان رضا العملاء",
+                stat_3: "+ خبير وفني متخصص",
+                stat_4: "دعم فني وحالات الطوارئ",
+                why_badge: "لماذا تختار غلا؟",
+                why_title: "المميزات التي تجعلنا الخيار الأول",
+                why_desc: "نتميز بالاحترافية العالية والالتزام التام بأدق تفاصيل الجودة والنظافة والصيانة.",
+                why_f1_title: "الجودة الملكية العالية",
+                why_f1_desc: "نستخدم أحدث معدات التنظيف ومواد الصيانة الأصلية المعتمدة عالمياً لضمان نتائج مذهلة تدوم طويلاً.",
+                why_f2_title: "عمالة مدربة وموثوقة",
+                why_f2_desc: "فريق عمل محترف وخاضع لتدريبات مكثفة وأمنية لضمان الأمان التام والاحترام المطلق لخصوصية منزلك.",
+                why_f3_title: "دقة تامة في المواعيد",
+                why_f3_desc: "نلتزم بالوصول في الوقت المحدد تماماً وإنجاز المهام بكفاءة عالية وفق جدول زمني دقيق يناسب وقتك.",
+                clean_badge: "قسم التنظيف",
+                clean_title: "خدمات التنظيف الشاملة",
+                clean_desc: "نحول منزلك إلى واحة من النظافة والتعقيم الفائق بأحدث تقنيات البخار والتطهير.",
+                tag_popular: "الأكثر طلباً",
+                maint_badge: "قسم الصيانة",
+                maint_title: "أعمال صيانة وإصلاح المنازل",
+                maint_desc: "فريق من المهندسين والفنيين المحترفين لصيانة جميع مرافق منزلك بكفاءة وسرعة.",
+                tag_urgent: "صيانة فورية",
+                book_badge: "سلة المشتريات وبيانات الحجز",
+                book_title: "تأكيد الطلب والحاسبة التلقائية",
+                book_desc: "راجع الخدمات المختارة في السلة، وقم بتعبئة بياناتك الشخصية وتحديد موقعك عبر الـ GPS لتأكيد الطلب فوراً.",
+                global_badge: "شراكات وحلول أعمال عالمية",
+                global_title: "مراسلات الشركات العالمية والمؤسسات",
+                global_desc: "نرحب بالشراكات الاستراتيجية والعقود المؤسسية الدولية. أرسل استفسارك الرسمي مباشرة إلى قسم العلاقات الدولية والشركات.",
+                btn_send_corporate: "إرسال الرسالة رسمياً عبر البريد (corporate@ghalaa.com)",
+                careers_badge: "الانضمام لفريقنا الملكي",
+                careers_title: "تقديم طلبات التوظيف وإرسال CV",
+                careers_desc: "تبحث عن فرصة عمل ممتازة؟ نرحب بالكفاءات والخبراء والفنيين. قم بتعبئة بياناتك وإرفاق رابط السيرة الذاتية لتقييم طلبك فوراً.",
+                btn_send_cv: "إرسال طلب التوظيف والـ CV للشركة",
+                contact_badge: "تواصل معنا المباشر",
+                contact_title: "جاهزون لخدمتكم على مدار الساعة",
+                contact_desc: "تواصل معنا عبر الرقم المباشر أو عبر رسائل الواتساب الفورية لطلب خدمات التنظيف والصيانة بكافة أنواعها.",
+                contact_call_label: "اتصل بنا مباشرة",
+                contact_wa_label: "المحادثة السريعة عبر الواتساب",
+                card_company_name: "شركة غلا للخدمات المنزلية",
+                card_company_desc: "احصل على استشارة مجانية وحجز فوري لكافة أعمال الصيانة والتنظيف.",
+                card_company_btn: "راسل عبر واتساب: 0782591669",
+                footer_about: "الشركة الرائدة في تقديم خدمات تنظيف وصيانة المنازل والفلل بمعايير ملكية فاخرة وموثوقة.",
+                footer_quick_links: "روابط سريعة",
+                footer_contact_head: "حجز وتواصل مباشر",
+                footer_follow: "تابعنا على",
+                footer_rights: "جميع الحقوق محفوظة © 2026 شركة GHALAA LLC | غلا للخدمات المنزلية.",
+                footer_support: "للحجز والاستفسار: 0782591669"
+            },
+            en: {
+                tagline: "For Home Cleaning & Maintenance Services",
+                services_guide: "Services Directory",
+                cat_cleaning: "<i class='fa-solid fa-broom'></i> Cleaning Services",
+                cat_maintenance: "<i class='fa-solid fa-wrench'></i> Maintenance Services",
+                cat_corporate: "<i class='fa-solid fa-building-flag'></i> Corporate & Careers",
+                nav_home: "Home",
+                nav_why_us: "Why Us?",
+                nav_cleaning: "Cleaning",
+                nav_maintenance: "Maintenance",
+                nav_booking: "Cart & Booking",
+                nav_global: "Global Inquiries",
+                nav_careers: "Careers",
+                nav_contact: "Contact",
+                btn_whatsapp_quick: "Quick WhatsApp Booking",
+                btn_whatsapp_mobile: "Book via WhatsApp (0782591669)",
+                hero_badge: "Royal Luxury & Excellence in Home Services",
+                hero_title_company: "Company",
+                hero_desc: "We deliver top-tier standards in home and villa cleaning & maintenance with luxury royal touch, ensuring absolute peace of mind for your family.",
+                btn_hero_whatsapp: "Book Instant WhatsApp: 0782591669",
+                stat_1: "+ Homes Cleaned & Maintained",
+                stat_2: "Customer Satisfaction",
+                stat_3: "+ Expert Technicians",
+                stat_4: "Emergency Support 24/7",
+                why_badge: "Why Choose Ghalaa?",
+                why_title: "Features That Make Us #1 Choice",
+                why_desc: "We stand out with top professionalism and unwavering commitment to quality, cleanliness, and precise maintenance.",
+                why_f1_title: "Royal Premium Quality",
+                why_f1_desc: "We use modern cleaning machinery and internationally certified original materials to ensure long-lasting brilliant results.",
+                why_f2_title: "Trained & Trusted Staff",
+                why_f2_desc: "A professional, background-checked team trained to maintain full safety and absolute respect for your home's privacy.",
+                why_f3_title: "Punctual & Reliable",
+                why_f3_desc: "We strictly arrive on time and complete projects efficiently according to a precise timetable tailored for you.",
+                clean_badge: "Cleaning Division",
+                clean_title: "Comprehensive Cleaning Services",
+                clean_desc: "Transforming your residence into a pristine sanctuary using advanced steam cleaning and sanitization technologies.",
+                tag_popular: "Most Popular",
+                maint_badge: "Maintenance Division",
+                maint_title: "Home Maintenance & Repair Services",
+                maint_desc: "A team of skilled engineers and certified technicians to fix and maintain all home facilities quickly.",
+                tag_urgent: "Immediate Service",
+                book_badge: "Shopping Cart & Customer Details",
+                book_title: "Order Confirmation & Calculator",
+                book_desc: "Review selected services in your cart, fill in your personal info and locate via GPS to confirm your booking immediately.",
+                global_badge: "Global Strategic Partnerships",
+                global_title: "Global Companies & Institutional Inquiries",
+                global_desc: "We welcome international partnerships and B2B contracts. Send your inquiry directly to our corporate relations department.",
+                btn_send_corporate: "Send Inquiry via Email (corporate@ghalaa.com)",
+                careers_badge: "Join Our Royal Team",
+                careers_title: "Job Applications & CV Submission",
+                careers_desc: "Looking for an outstanding career? We welcome technicians and professionals. Submit your CV link for instant evaluation.",
+                btn_send_cv: "Submit Application & CV",
+                contact_badge: "Direct Contact Us",
+                contact_title: "Ready to Serve You 24/7",
+                contact_desc: "Reach out via direct call or instant WhatsApp message for all home cleaning and maintenance inquiries.",
+                contact_call_label: "Call Us Directly",
+                contact_wa_label: "Instant WhatsApp Chat",
+                card_company_name: "GHALAA LLC Home Services",
+                card_company_desc: "Get a free consultation and instant booking for all cleaning and maintenance services.",
+                card_company_btn: "Message on WhatsApp: 0782591669",
+                footer_about: "The premier leader in royal-standard home cleaning and maintenance services you can trust.",
+                footer_quick_links: "Quick Links",
+                footer_contact_head: "Direct Booking",
+                footer_follow: "Follow Us On",
+                footer_rights: "All Rights Reserved © 2026 GHALAA LLC.",
+                footer_support: "Support & Inquiries: 0782591669"
+            }
+        };
+
+        let currentLang = 'ar';
+
+        function applyLanguage(lang) {
+            currentLang = lang;
+            const html = document.documentElement;
+            html.lang = lang;
+            html.dir = lang === 'ar' ? 'rtl' : 'ltr';
+
+            if(lang === 'ar') {
+                html.classList.remove('ltr');
+                html.classList.add('rtl');
+            } else {
+                html.classList.remove('rtl');
+                html.classList.add('ltr');
+            }
+
+            document.querySelectorAll('[data-i18n]').forEach(el => {
+                const key = el.getAttribute('data-i18n');
+                if (i18n[lang][key]) {
+                    el.innerHTML = i18n[lang][key];
+                }
+            });
+
+            document.getElementById('lang-label').textContent = lang === 'ar' ? 'English' : 'العربية';
+            document.getElementById('lang-label-mobile').textContent = lang === 'ar' ? 'English' : 'العربية';
+        }
+
+        document.getElementById('lang-toggle-btn').addEventListener('click', () => applyLanguage(currentLang === 'ar' ? 'en' : 'ar'));
+        document.getElementById('lang-toggle-btn-mobile').addEventListener('click', () => applyLanguage(currentLang === 'ar' ? 'en' : 'ar'));
+
+        // Toggle Services Dropdown & Mobile Menu
+        const dropdownBtn = document.getElementById('services-dropdown-btn');
+        const dropdownMenu = document.getElementById('services-dropdown-menu');
+        dropdownBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            dropdownMenu.classList.toggle('hidden');
+        });
+        document.addEventListener('click', () => dropdownMenu.classList.add('hidden'));
+
+        const menuBtn = document.getElementById('menu-btn');
+        const mobileMenu = document.getElementById('mobile-menu');
+        menuBtn.addEventListener('click', () => mobileMenu.classList.toggle('hidden'));
+
+        // Scroll Progress Bar & Back to top button
+        const scrollProgress = document.getElementById('scroll-progress');
+        const backToTopBtn = document.getElementById('back-to-top');
+
+        window.addEventListener('scroll', () => {
+            const totalHeight = document.documentElement.scrollHeight - window.innerHeight;
+            const progress = (window.scrollY / totalHeight) * 100;
+            scrollProgress.style.width = `${progress}%`;
+
+            if (window.scrollY > 400) {
+                backToTopBtn.classList.remove('hidden');
+                backToTopBtn.classList.add('flex');
+            } else {
+                backToTopBtn.classList.add('hidden');
+                backToTopBtn.classList.remove('flex');
+            }
+        });
+
+        backToTopBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+
+        // Animated Counters
+        const counters = document.querySelectorAll('.counter');
+        let animated = false;
+
+        window.addEventListener('scroll', () => {
+            const statsSection = document.querySelector('#home');
+            if (!statsSection) return;
+            const sectionPos = statsSection.getBoundingClientRect().top;
+            if (sectionPos < window.innerHeight && !animated) {
+                animated = true;
+                counters.forEach(counter => {
+                    const target = +counter.getAttribute('data-target');
+                    const speed = 200;
+                    const updateCount = () => {
+                        const count = +counter.innerText;
+                        const inc = target / speed;
+                        if (count < target) {
+                            counter.innerText = Math.ceil(count + inc);
+                            setTimeout(updateCount, 15);
+                        } else {
+                            counter.innerText = target;
+                        }
+                    };
+                    updateCount();
+                });
+            }
+        });
+    </script>
+</body>
+</html>
